@@ -1,2 +1,2 @@
-# Live Camera Identification (no convolution) 
+# Live Camera Identification
 
