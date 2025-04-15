@@ -1,3 +1,5 @@
 # Ignore CIFAR-10 dataset folder
 
 data/
+
+best_model.pth
