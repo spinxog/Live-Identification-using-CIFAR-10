@@ -1,0 +1,2 @@
+# Ignore CIFAR-10 dataset folder
+data/cifar-10-batches-py/
