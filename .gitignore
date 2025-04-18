@@ -5,3 +5,5 @@ data/
 best_model.pth
 
 .env
+
+test.ipynb
