@@ -8,3 +8,5 @@ Using a custom convluted network, since that proves to be decent currently, i ha
 Apparently I wasn't using cuda before because I didn't set it up but now that I did hopefull its a bit faster. 
 Achieve a 94% in testing and achieve a 97.89% with a validation of 0.0663. 
 Will try to see if I can futher improve the architecture and possible add stochastic model however that  will some time as I am still behind on mathamatics.   
+
+Next i think i'll add more transformations to the images since that would probably make it better
