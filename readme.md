@@ -9,4 +9,4 @@ Apparently I wasn't using cuda before because I didn't set it up but now that I 
 Achieve a 94% in testing and achieve a 97.89% with a validation of 0.0663. 
 Will try to see if I can futher improve the architecture and possible add stochastic model however that  will some time as I am still behind on mathamatics.   
 
-Next i think i'll add more transformations to the images since that would probably make it better
+Next i think i'll add more transformations to the images since that would probably make it better. Possible also try a few other learning rates and test it out.
